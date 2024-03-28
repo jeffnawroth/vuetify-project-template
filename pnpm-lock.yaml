@@ -6,19 +6,19 @@ settings:
 
 dependencies:
   '@mdi/font':
-    specifier: 6.2.95
-    version: 6.2.95
+    specifier: 7.4.47
+    version: 7.4.47
   core-js:
-    specifier: ^3.34.0
+    specifier: ^3.36.1
     version: 3.36.1
   roboto-fontface:
-    specifier: '*'
+    specifier: ^0.10.0
     version: 0.10.0
   vue:
     specifier: ^3.4.21
     version: 3.4.21(typescript@5.4.3)
   vuetify:
-    specifier: ^3.5.8
+    specifier: ^3.5.13
     version: 3.5.13(typescript@5.4.3)(vite-plugin-vuetify@2.0.3)(vue@3.4.21)
 
 devDependencies:
@@ -26,7 +26,7 @@ devDependencies:
     specifier: ^7.24.0
     version: 7.24.0
   '@types/node':
-    specifier: ^20.11.25
+    specifier: ^20.11.30
     version: 20.11.30
   '@vitejs/plugin-vue':
     specifier: ^5.0.4
@@ -53,16 +53,16 @@ devDependencies:
     specifier: ^6.1.1
     version: 6.1.1(eslint@8.57.0)
   eslint-plugin-vue:
-    specifier: ^9.22.0
+    specifier: ^9.24.0
     version: 9.24.0(eslint@8.57.0)
   pinia:
     specifier: ^2.1.7
     version: 2.1.7(typescript@5.4.3)(vue@3.4.21)
   sass:
-    specifier: ^1.71.1
+    specifier: ^1.72.0
     version: 1.72.0
   typescript:
-    specifier: ^5.4.2
+    specifier: ^5.4.3
     version: 5.4.3
   unplugin-auto-import:
     specifier: ^0.17.5
@@ -74,10 +74,10 @@ devDependencies:
     specifier: ^0.26.0
     version: 0.26.0(vue@3.4.21)
   unplugin-vue-router:
-    specifier: ^0.8.4
+    specifier: ^0.8.5
     version: 0.8.5(vue-router@4.3.0)(vue@3.4.21)
   vite:
-    specifier: ^5.1.5
+    specifier: ^5.2.6
     version: 5.2.6(@types/node@20.11.30)(sass@1.72.0)
   vite-plugin-vue-layouts:
     specifier: ^0.11.0
@@ -89,7 +89,7 @@ devDependencies:
     specifier: ^4.3.0
     version: 4.3.0(vue@3.4.21)
   vue-tsc:
-    specifier: ^2.0.6
+    specifier: ^2.0.7
     version: 2.0.7(typescript@5.4.3)
 
 packages:
@@ -370,8 +370,8 @@ packages:
   /@jridgewell/sourcemap-codec@1.4.15:
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
 
-  /@mdi/font@6.2.95:
-    resolution: {integrity: sha512-0RKkhabkFZP3ALwKqrjhdKdhydQpoydIjX6cvjIwLyjADCsE0pG68YkGY+S3qnfdErmhS4m8adwvgrAFXp2AYQ==}
+  /@mdi/font@7.4.47:
+    resolution: {integrity: sha512-43MtGpd585SNzHZPcYowu/84Vz2a2g31TvPMTm9uTiCSWzaheQySUcSyUH/46fPnuPQWof2yd0pGBtzee/IQWw==}
     dev: false
 
   /@nodelib/fs.scandir@2.1.5:
